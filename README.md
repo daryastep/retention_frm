@@ -51,7 +51,7 @@ freight_value —  вес товара
 
 # Решение 
 
-Работа выполнена в Jupiter Notebook с использованием библиотек pandas, numpy, seaborn, matplotlib, plotly
+Работа выполнена в Jupyter Notebook с использованием библиотек pandas, numpy, seaborn, matplotlib, plotly
 
 Проведено исследование данных (EDA) и предобработка
 Посчитано: 
